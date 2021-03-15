@@ -19,6 +19,7 @@
     <application
         android:name="io.flutter.app.FlutterApplication"
         android:label="share_extend_example"
+        android:requestLegacyExternalStorage="true"
         android:icon="@mipmap/ic_launcher">
 
         <activity
